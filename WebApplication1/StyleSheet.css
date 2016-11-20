@@ -1,0 +1,19 @@
+﻿body 
+{
+    font-family: Calibri;
+}
+
+p
+{
+    font: 14px;
+}
+
+a
+{
+    color: #339933;
+}
+
+a:hover
+{
+    text-decoration: underline;
+}
